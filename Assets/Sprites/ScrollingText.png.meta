@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: aadd163a1083b694cb476d64aa66c8a2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ScrollingText_0
+    21300002: ScrollingText_1
+    21300004: ScrollingText_2
+    21300006: ScrollingText_3
+    21300008: ScrollingText_4
+    21300010: ScrollingText_5
+    21300012: ScrollingText_6
+    21300014: ScrollingText_7
+    21300016: ScrollingText_8
+    21300018: ScrollingText_9
+    21300020: ScrollingText_10
+    21300022: ScrollingText_11
+    21300024: ScrollingText_12
+    21300026: ScrollingText_13
+    21300028: ScrollingText_14
+    21300030: ScrollingText_15
+    21300032: ScrollingText_16
+    21300034: ScrollingText_17
+    21300036: ScrollingText_18
+    21300038: ScrollingText_19
+    21300040: ScrollingText_20
+    21300042: ScrollingText_21
+    21300044: ScrollingText_22
+    21300046: ScrollingText_23
+    21300048: ScrollingText_24
+    21300050: ScrollingText_25
+    21300052: ScrollingText_26
+    21300054: ScrollingText_27
+    21300056: ScrollingText_28
+    21300058: ScrollingText_29
+    21300060: ScrollingText_30
+    21300062: ScrollingText_31
+    21300064: ScrollingText_32
+    21300066: ScrollingText_33
+    21300068: ScrollingText_34
+    21300070: ScrollingText_35
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScrollingText_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1878.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2383d050b3b54e88d522eb720a980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1878.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bce605a04d1d24abb3af077fc14661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1878.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c64282b366bf948baa6d8f1e57e304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db8bd43952013429dc5b6da0bfed32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_4
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1708.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6965f749b963ee0428084c82b1851721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1708.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d765a327a5254ea526efc48f01a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288371c7dbb18341be27087f55cf51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1538.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90606afd9ff65f408be7f6ee9258676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_8
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1538.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fca4c5d26dd348ab268804cb627f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736dd350e9252bb419d0118ae254b179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_10
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1368.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924ac4d0c61d2a4798b6198d64895a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_11
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1368.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa0d0384e232d48850d906d916f982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7c6bc242983914dae70ba1ef17f2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1198.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2552c70276843478f9cc2e8e8122fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_14
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1198.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2423e2f7575cf4baa913ee7592d646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7828f2e320634bbec2867f9f0f040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1028.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa69d7120b57ec4795bf082283ae937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_17
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1028.3334
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89510d92c84608545b710aeab89b25a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97919f109a6605c489e023f3f7e7b5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_19
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 858.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee42e2cd112bee42b06b289bd55cbe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_20
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 858.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d9a0b1c5fb154db42f73d70a9c7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63be4f2ec9558545bbe0678fd674d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 688.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed77409ce76fb478b330406da65f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_23
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 688.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d185330f091141a7cb8f25eb1b379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a45768029556d4da86324eb80d7207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_25
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 518.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301723f2ad760414093d18ae96ca27de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_26
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 518.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ebabedb9d63fe42a9f38f6e4aeaab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd3c97502b1394281e8e70e4f447a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_28
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 348.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af8eeb826f9bca44ac65f2297186a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_29
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 348.3333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec544217e3cf64ebff204716dec841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178.33333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c5b91d11cec6b4fbf96171f5d7f5c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_31
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 178.33333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097990be79518740ac3eebb73c4501f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_32
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 178.33333
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83848b0359b9e1459bca567de69a113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8.333328
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a177190bcb35f94cb103bcd2ac269a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_34
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 8.333328
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c695c9c48685409b728c61c7a37d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrollingText_35
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 8.333328
+        width: 681.6667
+        height: 169.66667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134432a6aaee284f8adba46b66380fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
